@@ -1,0 +1,10 @@
+﻿  E05_318073538.cpp
+D:\CGEIH\LABORATORIO\P5\P05\P05\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "E05_318073538.cpp")
+  
+D:\CGEIH\LABORATORIO\P5\P05\P05\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "E05_318073538.cpp")
+  
+D:\CGEIH\LABORATORIO\P5\P05\P05\E05_318073538.cpp(193,15): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\CGEIH\LABORATORIO\P5\P05\P05\E05_318073538.cpp(195,33): warning C4244: '+=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  P05.vcxproj -> D:\CGEIH\LABORATORIO\P5\P05\Debug\P05.exe
